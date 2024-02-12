@@ -1,7 +1,7 @@
 package com.ecommerce.ecommerce.service;
 
 import com.ecommerce.ecommerce.dto.Product;
-import com.ecommerce.ecommerce.errors.Messages;
+import com.ecommerce.ecommerce.messages.Messages;
 import com.ecommerce.ecommerce.request.ProductCreateRequest;
 import com.ecommerce.ecommerce.request.ProductUpdateRequest;
 import com.ecommerce.ecommerce.response.ProductDiscountOrTaxUpdateResponse;

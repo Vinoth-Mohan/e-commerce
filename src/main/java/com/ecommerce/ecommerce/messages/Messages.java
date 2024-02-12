@@ -1,4 +1,4 @@
-package com.ecommerce.ecommerce.errors;
+package com.ecommerce.ecommerce.messages;
 
 public class Messages {
     public static String PRODUCT_SUCCESSFULLY_UPDATED = "Product Successfully Updated";

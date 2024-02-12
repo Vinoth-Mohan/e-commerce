@@ -1,6 +1,6 @@
 package com.ecommerce.ecommerce.controller;
 
-import com.ecommerce.ecommerce.errors.Messages;
+import com.ecommerce.ecommerce.messages.Messages;
 import com.ecommerce.ecommerce.request.ProductCreateRequest;
 import com.ecommerce.ecommerce.request.ProductUpdateRequest;
 import com.ecommerce.ecommerce.response.ProductDiscountOrTaxUpdateResponse;
